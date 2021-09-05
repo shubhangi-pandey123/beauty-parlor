@@ -1,0 +1,4 @@
+1.npm install package(name)
+2. npm uninstall package(package name)
+3. npm init :- for iniating the project
+4. npm run (script name) 
